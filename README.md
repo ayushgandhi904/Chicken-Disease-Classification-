@@ -7,6 +7,9 @@ Classifies if the chicken has Coccidiosis Disease. (Object Detection Deep Learni
 
 ![image](https://github.com/ayushgandhi904/Chicken-Disease-Classification-/assets/96850890/f503c688-6053-4347-ac38-b08ea965f107)
 
+![image](https://github.com/ayushgandhi904/Chicken-Disease-Classification-/assets/96850890/9f2f3e5f-243d-4286-a49d-1f6b90b13e7f)
+
+
 
 ### How to run the project locally?
 
