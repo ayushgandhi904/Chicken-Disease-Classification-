@@ -1,10 +1,14 @@
 # Chicken-Disease-Classification-
-Classifies if chicken has Coccidiosis Disease. (Object Detection Deep Learning Project)
+Classifies if the chicken has Coccidiosis Disease. (Object Detection Deep Learning Project)
+
+![image](https://github.com/ayushgandhi904/Chicken-Disease-Classification-/assets/96850890/c31c6a2a-6edb-43c7-8674-524cc8076e7a)
+
+![image](https://github.com/ayushgandhi904/Chicken-Disease-Classification-/assets/96850890/11ccf0aa-a448-4783-a129-73071f4340c7)
+
+![image](https://github.com/ayushgandhi904/Chicken-Disease-Classification-/assets/96850890/f503c688-6053-4347-ac38-b08ea965f107)
 
 
-
-
-### How to run the project in local ?
+### How to run the project locally?
 
 ```
 conda create -p venv python==3.8 -y && conda activate venv/
